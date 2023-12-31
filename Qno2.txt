@@ -1,0 +1,24 @@
+Qno2.Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML
+documents?
+ans:- * The purpose of Comments in HTML are used to provide notes or remarks within the HTML code that are not displayed on the rendered webpage.
+      * Comments are enclosed in the <!– and –> tags. Anything between these tags will be ignored by the browser, so comments will not be visible on the webpage.
+      * However, it can be useful for documenting the code or for making temporary changes. 
+         For example, you could use a comment to explain why you are using a particular piece of code or to remind yourself to come back and make a change later.
+	example:<!DOCTYPE html>
+	<html lang="en">
+       <head>
+      <meta charset="UTF-16">
+     <title>custom title</title>
+  
+    <h1>Mohammad <br>
+     <!-- vertical and horizontal -->
+   </h1>
+	<h3>Lorem ipsum dolor sit amet.</h3>
+	<!-- <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h4> -->
+	
+	</head>
+	<body>
+    
+	</body>
+	</html>
+

@@ -1,0 +1,12 @@
+Qno4. Write a short note on Tag and element with an examples?
+Ans:- A Tag is a keyword that tells the web browser how to display the text on a web page. Tags are enclosed in angle brackets,
+      like this: <tag>. For example,There are many different HTML tags, each with its own purpose. 
+	Some of the most common tags include:
+	<html>: This tag tells the browser that the document is an HTML document.
+	<head>: This tag contains information about the document, such as the title and the author.
+	<body>: This tag contains the content of the document, such as the text, images, and links.
+	<h1>: This tag tells the browser to display the text that follows it as a heading.
+	<p>: This tag tells the browser to display the text that follows it as a paragraph.
+	<img>: This tag tells the browser to display an image.
+	<a>: This tag tells the browser to create a link.
+	Tags and elements are essential for creating HTML documents. By understanding how to use tags and elements, you can create web pages that are both informative and visually appealing.
